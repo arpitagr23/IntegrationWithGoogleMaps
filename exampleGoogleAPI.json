@@ -1,0 +1,735 @@
+{
+   "plus_code" : {
+      "compound_code" : "99V6+JJ5 Hyderabad, Telangana, India",
+      "global_code" : "7J9W99V6+JJ5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "99V6+PG5",
+               "short_name" : "99V6+PG5",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Narsingi",
+               "short_name" : "Narsingi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Puppalguda",
+               "short_name" : "Puppalguda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rangareddy",
+               "short_name" : "Rangareddy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "TG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500089",
+               "short_name" : "500089",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "99V6+PG5, Narsingi, Puppalguda, Telangana 500089, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.3944656,
+                  "lng" : 78.3619236
+               },
+               "southwest" : {
+                  "lat" : 17.393739,
+                  "lng" : 78.3611926
+               }
+            },
+            "location" : {
+               "lat" : 17.3940232,
+               "lng" : 78.3614005
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.39545128029151,
+                  "lng" : 78.36290708029149
+               },
+               "southwest" : {
+                  "lat" : 17.3927533197085,
+                  "lng" : 78.36020911970849
+               }
+            }
+         },
+         "place_id" : "ChIJkejBfT-UyzsRqJAoMSYIEog",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "99V6+PG5",
+               "short_name" : "99V6+PG5",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Narsingi",
+               "short_name" : "Narsingi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Puppalguda",
+               "short_name" : "Puppalguda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rangareddy",
+               "short_name" : "Rangareddy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "TG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500089",
+               "short_name" : "500089",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "99V6+PG5, Narsingi, Puppalguda, Telangana 500089, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 17.3942679,
+               "lng" : 78.36135329999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3956168802915,
+                  "lng" : 78.36270228029149
+               },
+               "southwest" : {
+                  "lat" : 17.3929189197085,
+                  "lng" : 78.36000431970848
+               }
+            }
+         },
+         "place_id" : "ChIJWQW6gUCUyzsR2UI1-2QUOs0",
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "99V6+JJ",
+               "short_name" : "99V6+JJ",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "TG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "99V6+JJ Hyderabad, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.394125,
+                  "lng" : 78.36162499999999
+               },
+               "southwest" : {
+                  "lat" : 17.394,
+                  "lng" : 78.36149999999999
+               }
+            },
+            "location" : {
+               "lat" : 17.394,
+               "lng" : 78.3616
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3954114802915,
+                  "lng" : 78.3629114802915
+               },
+               "southwest" : {
+                  "lat" : 17.3927135197085,
+                  "lng" : 78.36021351970849
+               }
+            }
+         },
+         "place_id" : "GhIJvp8aL91kMUAR845TdCSXU0A",
+         "plus_code" : {
+            "compound_code" : "99V6+JJ Hyderabad, Telangana, India",
+            "global_code" : "7J9W99V6+JJ"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "45",
+               "short_name" : "45",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Narsingi - Puppalaguda Main Road",
+               "short_name" : "Narsingi - Puppalaguda Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Narsingi",
+               "short_name" : "Narsingi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Narsingi",
+               "short_name" : "Narsingi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rangareddy",
+               "short_name" : "Rangareddy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "TG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500075",
+               "short_name" : "500075",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "45, Narsingi - Puppalaguda Main Rd, Narsingi, Telangana 500075, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 17.3948034,
+               "lng" : 78.3611185
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3961523802915,
+                  "lng" : 78.36246748029151
+               },
+               "southwest" : {
+                  "lat" : 17.3934544197085,
+                  "lng" : 78.35976951970851
+               }
+            }
+         },
+         "place_id" : "EkU0NSwgTmFyc2luZ2kgLSBQdXBwYWxhZ3VkYSBNYWluIFJkLCBOYXJzaW5naSwgVGVsYW5nYW5hIDUwMDA3NSwgSW5kaWEiGhIYChQKEgmtjd2FP5TLOxFDsDsHLjt6ChAt",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narsingi - Puppalaguda Main Road",
+               "short_name" : "Narsingi - Puppalaguda Main Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Narsingi",
+               "short_name" : "Narsingi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Narsingi",
+               "short_name" : "Narsingi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rangareddy",
+               "short_name" : "Rangareddy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "TG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "500075",
+               "short_name" : "500075",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Narsingi - Puppalaguda Main Rd, Narsingi, Telangana 500075, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.3947334,
+                  "lng" : 78.3610193
+               },
+               "southwest" : {
+                  "lat" : 17.3941372,
+                  "lng" : 78.36056219999999
+               }
+            },
+            "location" : {
+               "lat" : 17.3944564,
+               "lng" : 78.360759
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.3957842802915,
+                  "lng" : 78.36213973029149
+               },
+               "southwest" : {
+                  "lat" : 17.39308631970849,
+                  "lng" : 78.35944176970848
+               }
+            }
+         },
+         "place_id" : "ChIJSUYniUCUyzsRBKI86RHXcsA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puppalguda",
+               "short_name" : "Puppalguda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rangareddy",
+               "short_name" : "Rangareddy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "TG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puppalguda, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4024443,
+                  "lng" : 78.38986849999999
+               },
+               "southwest" : {
+                  "lat" : 17.3925387,
+                  "lng" : 78.3608182
+               }
+            },
+            "location" : {
+               "lat" : 17.3982116,
+               "lng" : 78.3748513
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4024443,
+                  "lng" : 78.38986849999999
+               },
+               "southwest" : {
+                  "lat" : 17.3925387,
+                  "lng" : 78.3608182
+               }
+            }
+         },
+         "place_id" : "ChIJnRcImJ-WyzsRO13e31LPO-g",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narsingi",
+               "short_name" : "Narsingi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rangareddy",
+               "short_name" : "Rangareddy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "TG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Narsingi, Hyderabad, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4028485,
+                  "lng" : 78.3776886
+               },
+               "southwest" : {
+                  "lat" : 17.3747233,
+                  "lng" : 78.3248552
+               }
+            },
+            "location" : {
+               "lat" : 17.3876025,
+               "lng" : 78.35720619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4028485,
+                  "lng" : 78.3776886
+               },
+               "southwest" : {
+                  "lat" : 17.3747233,
+                  "lng" : 78.3248552
+               }
+            }
+         },
+         "place_id" : "ChIJR6IIEUSUyzsRMzPxJkOeKDg",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "500089",
+               "short_name" : "500089",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rangareddy",
+               "short_name" : "Rangareddy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "TG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hyderabad, Telangana 500089, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.4190966,
+                  "lng" : 78.3918154
+               },
+               "southwest" : {
+                  "lat" : 17.3880297,
+                  "lng" : 78.36055949999999
+               }
+            },
+            "location" : {
+               "lat" : 17.4027233,
+               "lng" : 78.37731269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.4190966,
+                  "lng" : 78.3918154
+               },
+               "southwest" : {
+                  "lat" : 17.3880297,
+                  "lng" : 78.36055949999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-fugahuUyzsRbO3VAkTQhjI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patan Cheruvu",
+               "short_name" : "Patan Cheruvu",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Rangareddy",
+               "short_name" : "Rangareddy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "TG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Patan Cheruvu, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.436169,
+                  "lng" : 78.4707367
+               },
+               "southwest" : {
+                  "lat" : 17.2758475,
+                  "lng" : 78.22818169999999
+               }
+            },
+            "location" : {
+               "lat" : 17.4027199,
+               "lng" : 78.3773393
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.436169,
+                  "lng" : 78.4707367
+               },
+               "southwest" : {
+                  "lat" : 17.2758475,
+                  "lng" : 78.22818169999999
+               }
+            }
+         },
+         "place_id" : "ChIJdSAYqKSVyzsRlAJHcZGKbNA",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "TG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hyderabad, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.6078088,
+                  "lng" : 78.6561694
+               },
+               "southwest" : {
+                  "lat" : 17.2168886,
+                  "lng" : 78.1599217
+               }
+            },
+            "location" : {
+               "lat" : 17.385044,
+               "lng" : 78.486671
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.6078088,
+                  "lng" : 78.6561694
+               },
+               "southwest" : {
+                  "lat" : 17.2168886,
+                  "lng" : 78.1599217
+               }
+            }
+         },
+         "place_id" : "ChIJx9Lr6tqZyzsRwvu6koO3k64",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rangareddy",
+               "short_name" : "Rangareddy",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Telangana",
+               "short_name" : "TG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rangareddy, Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.5224728,
+                  "lng" : 78.8442067
+               },
+               "southwest" : {
+                  "lat" : 16.7460767,
+                  "lng" : 77.9227439
+               }
+            },
+            "location" : {
+               "lat" : 17.0496831,
+               "lng" : 78.3842227
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.5224728,
+                  "lng" : 78.8442067
+               },
+               "southwest" : {
+                  "lat" : 16.7460767,
+                  "lng" : 77.9227439
+               }
+            }
+         },
+         "place_id" : "ChIJx9Lr6tqZyzsRQZtu9ErRBAs",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Telangana",
+               "short_name" : "TG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Telangana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.9168069,
+                  "lng" : 81.3226413
+               },
+               "southwest" : {
+                  "lat" : 15.8360033,
+                  "lng" : 77.23576109999999
+               }
+            },
+            "location" : {
+               "lat" : 18.1124372,
+               "lng" : 79.01929969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.9168069,
+                  "lng" : 81.3226413
+               },
+               "southwest" : {
+                  "lat" : 15.8360033,
+                  "lng" : 77.23576109999999
+               }
+            }
+         },
+         "place_id" : "ChIJQ-0plNtQMzoRWUBZQad772M",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6745457,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6745457,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
